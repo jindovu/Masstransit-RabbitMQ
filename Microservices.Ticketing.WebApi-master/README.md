@@ -14,5 +14,3 @@ Here are the topics covered -
 
 -- Test Scenario #2 – Consumer is Offline. Back Online after N Minutes
 
-Read the entire blog -
-https://www.codewithmukesh.com/blog/rabbitmq-with-aspnet-core-microservice/
